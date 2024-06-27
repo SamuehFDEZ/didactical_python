@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
 <h1>
-     WELCOME TO DYDACTICAL PYTHON
+     WELCOME TO DiDACTICAL PYTHON
 </h1>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="10%" height="auto" alt="Laravel">
