@@ -39,9 +39,20 @@ print(b)
 c = [1,"a",3,"b",5]
 print(c)
 
- 
+# Nested lists
+nest_list = [1, 2, ["a", "b"]]
+print(nest_list)
+print(nest_list[2][0])
 
 
+# accessing elements of list
+a = [1,2,3,4,5,6,7,8,9,10,11]
+print(a[1])
+
+#using slice to access element
+# list_name[start : stop : step]
+print(a[1:10:1])
+print(a[11:-1:-1])
 
 
 
