@@ -74,3 +74,36 @@ for i in z:
         break
     print("Last statement")
 print("Outside for")
+
+# continue statement
+
+a = 5
+while a:
+    print(a)
+    a = a - 1
+    if a == 2:
+        continue
+    print("Remaining statements")
+
+# pass statement
+# used to define an empty block
+# pass to have an empty value, for example:
+
+# while a: X
+# while a:
+    #pass CORRECT
+
+
+a = 5
+while a:
+    print(a)
+    a = a - 1
+    if a == 2:
+        pass
+    print("Remaining statements")
+
+
+
+
+
+
